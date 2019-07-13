@@ -1,6 +1,7 @@
 # CSV Streamer with PubSub and BigQuery
 
-Stream CSV data via PubSub and into BigQuery using simple Python scripts and the Google Cloud libaries for PubSub and Bigquery. 
+Stream CSV data via PubSub into BigQuery using simple Python scripts and the Google Cloud libaries for PubSub and Bigquery. 
+  
 For best results use Python 3.
 
 # Install dependencies
