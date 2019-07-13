@@ -16,7 +16,7 @@ pip3 install requirements.txt
 python3 stream_and_pub.py
 ```
 
-# Listen and insert into BigQuery
+# Subscribe and insert into BigQuery
 
 ```
 python3 sub_and_insert.py
